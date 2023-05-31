@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-mile-375220",
+  "private_key_id": "16a384f482917b0c26e45f70e8d4480e2deecc81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtdMGTKhTrM5Kv\nlq+eTxAHrIL4i+PEPEKA3lRwHNNlvGV2csG/NEH0vqoRRlFiJvDHNRV/KZ4dYOit\n1cE6Nc1lqsTQgYY4Fc/js4Ivwm04aVB+v6HbDxxa1m1CNjwlOBU39MooFW1dEZQZ\nsNv1OZkVggHZi0gwySloKPHhqXu3u1UPfeCFAhXVngmSyzO4cccN5/GHtZybTDqi\n8NpnsOZm3s5rxDeDKNRPIehYPc4RLyZ5HsKKmBMvFKbHrmJc9a7wu0R+mlV7cpiY\n2cE0xRfcU7zum2E1h0WNl9+ix+f3jzAOnKi8GZ1T2UCln7OycbPN0tRhoLbBZEGH\nqb+m9CHvAgMBAAECggEAICB4fBP2xOuL9za/N2CodOtoZLWwTZflr22+kPdd1kGT\nP2GY7hu1PaoU4Nc32qigvxzfauqf7QwWfKATRn9RmEuNYZsj635qv19vtP3bce/b\np2ZCCcteMpr1qKZX9ILTN0aBLPRvCaZoWmvOCbkN2BR42Dy6dcLEhxTSXDwifJCJ\nKeM5Po3nfjCzH4cKaW8qdQtGIoC2gZSjTIUmV49ZqQGryRotoSYWC4NwuXEOjKXg\ngFgcbEe3H3mq22T8OvrngKeYWYAy96NMCJuaIpvk4pJNypqIRX0QKG2b13IIA2ap\nsgIPOin3zOWsJEWV4jqxloYvOfT1C3Gp4EthXkMYpQKBgQDkr3XTAof0Y9g7UVXQ\n3Fz6RbZvtjd/376rg3xPISKs3gMnsYmhb253FfZ/fEj7UNa+ChxVrZqfuOwuigag\nDXrnSBH6hokao3o1QdkXaGPKGDBQKxRq/d4GWvBW26QWaDZ8tJlOEn3TlXR4gm1A\nfrNVGaeuQkbvcvtisgUeYRKM0wKBgQDCLIr0gyNluJasdE2JvU818/ifsmjHk20l\neumrebnoak1iED6u72gWmgPJhEz6s66xt2inKyrexgpjceNIXojz5Mld2tM55eUD\nahNYBIq8LDEq9xXRJsWGfhZjRLDebR0j//QqGSjZR3/0kIhw3XPc9DkzN2D4XRAQ\niKjSzLW09QKBgADhG9bf35309FPmECppboIX2oe7b6MyPQ1zx/qV6gg4IlL4v8q7\nHvWeRABhffZZbTn11/4MWNfcYiwbo8LhymMxR8Bq3AQaNNIXmroYUKnqReVJBR8U\nMtJbbykmVw8u/2ajWyONtqYloPkFp13kHtRo8NgesR8ilgzfGl3viZ65AoGAAcia\n9igGOTb621auJ6e/hIVbMUxYPg0SoZeBcfvKQ2JGl7ICgWTdleeQRVebxWnFHwjK\nQ07YM/epvMQdDFsh8uuVFfGeoxeDhQaCavqPs67MPNLMNoGeqt+ZoQvOfByQefYt\n7f0RLP3FJR/2wOKn3822gMvvbhicvyoiMt2ChckCgYBeNmIOByE1S15IBSyp47K9\n2m4vlCMaOs+PvnDFL3lVlX+bluKMtVhLyon4mflUwHJIPrtfWh2290MVcw5iKig5\nnqe2CLbY5pN7VMzSaLQ1bMCt79YEQv3NEZ11KfkRz6S7S4e/WEPBO9+dffOiQrpv\ng/qiTLbLl1eUui1rJeKpbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@silicon-mile-375220.iam.gserviceaccount.com",
+  "client_id": "111885575231023792398",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40silicon-mile-375220.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
