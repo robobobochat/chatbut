@@ -14,7 +14,7 @@ docutils==0.19
 emoji==2.2.0
 exceptiongroup==1.1.1
 filelock==3.10.0
-Flask==2.3.2
+Flask==master
 google-auth==2.19.0
 google-auth-oauthlib==1.0.0
 gspread==5.9.0
